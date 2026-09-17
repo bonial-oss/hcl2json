@@ -1,4 +1,4 @@
-module github.com/Bonial-International-GmbH/hcl2json
+module github.com/bonial-oss/hcl2json
 
 go 1.15
 

@@ -1,9 +1,9 @@
 # hcl2json
 
-[![Build Status](https://github.com/Bonial-International-GmbH/hcl2json/workflows/build/badge.svg)](https://github.com/Bonial-International-GmbH/hcl2json/actions?query=workflow%3Abuild)
-[![Go Report Card](https://goreportcard.com/badge/github.com/Bonial-International-GmbH/hcl2json)](https://goreportcard.com/report/github.com/Bonial-International-GmbH/hcl2json)
-[![GoDoc](https://godoc.org/github.com/Bonial-International-GmbH/hcl2json?status.svg)](https://godoc.org/github.com/Bonial-International-GmbH/hcl2json)
-![GitHub](https://img.shields.io/github/license/Bonial-International-GmbH/hcl2json?color=orange)
+[![Build Status](https://github.com/bonial-oss/hcl2json/workflows/build/badge.svg)](https://github.com/bonial-oss/hcl2json/actions?query=workflow%3Abuild)
+[![Go Report Card](https://goreportcard.com/badge/github.com/bonial-oss/hcl2json)](https://goreportcard.com/report/github.com/bonial-oss/hcl2json)
+[![GoDoc](https://godoc.org/github.com/bonial-oss/hcl2json?status.svg)](https://godoc.org/github.com/bonial-oss/hcl2json)
+![GitHub](https://img.shields.io/github/license/bonial-oss/hcl2json?color=orange)
 
 This is a modified version of [hcl2json](https://github.com/tmccombs/hcl2json)
 with an added support for converting multiple files and directories
