@@ -8,7 +8,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/Bonial-International-GmbH/hcl2json/convert"
+	"github.com/bonial-oss/hcl2json/convert"
 	"github.com/spf13/cobra"
 )
 

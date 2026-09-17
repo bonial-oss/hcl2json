@@ -22,7 +22,7 @@ archives:
       - none*
 release:
   github:
-    owner: Bonial-International-GmbH
+    owner: bonial-oss
     name: hcl2json
 checksum:
   name_template: 'checksums.txt'
